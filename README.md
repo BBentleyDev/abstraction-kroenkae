@@ -7,10 +7,8 @@ A simple, sleek portfolio to display the works of artist Steven Kroenkae.
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript
 
-//
+## Optimizations
 
-## Lessons Learned:
-
-//
+Insert picture of artist in grid of artwork
