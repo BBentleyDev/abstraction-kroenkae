@@ -1,4 +1,4 @@
-# My Awesome Project
+# Abstractions by Kroenkae
 A simple, sleek portfolio to display the works of artist Steven Kroenkae.
 
 **Link to project:** https://stevekroenkae.netlify.app/
